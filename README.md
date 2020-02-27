@@ -6,11 +6,11 @@ Landswap Frontend
 
 This an an open source interface for LandSwap - a protocol for decentralized exchange of Ethereum tokens.
 
-- Website: [uniswap.io](https://landswap.io/)
-- Docs: [docs.uniswap.io](https://docs.uniswap.io/)
+- Website: [landswap.io](https://landswap.io/)
+
 - Twitter: [@LandSwap](https://twitter.com/LandSwap)
 - Reddit: [/r/Landswap](https://www.reddit.com/r/LandSwap/)
-- Email: [landswapio@landswap.io](mailto:contact@uniswap.io)
+- Email: [info@landswap.io](mailto:info@landswap.io)
 - Discord: [Landswap](https://discord.gg/UYdfWJm)
   
 ## Run Landswap Locally
